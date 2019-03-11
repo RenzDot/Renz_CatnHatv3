@@ -1,0 +1,1330 @@
+{
+    "lens_id": "",
+    "document_id": "TEmmzOuV8oMOvt-mVOp8",
+    "original_document_id": "QiJ9sUk9OVrPjv4DJosc",
+    "version": "2",
+    "lastChanged": "1552318012738",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Barking"
+                    ],
+                    [
+                        "Bowtie"
+                    ],
+                    [
+                        "Box"
+                    ],
+                    [
+                        "CatFace_neutral"
+                    ],
+                    [
+                        "CatFace_scream"
+                    ],
+                    [
+                        "Face Paint Patterns"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_lines_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_lines_secondary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_mask_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_mask_secondary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "kitty_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "kitty_secondary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "swirl_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "swirl_secondary"
+                    ],
+                    [
+                        "GIPHY Imports"
+                    ],
+                    [
+                        "GIPHY Imports",
+                        "animation art Sticker by NickDahill"
+                    ],
+                    [
+                        "GIPHY Imports",
+                        "hurry up yes Sticker by anredo"
+                    ],
+                    [
+                        "GIPHY Imports",
+                        "pop art loop STICKER by Dax Norman"
+                    ],
+                    [
+                        "Matte Shadow"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Scream"
+                    ],
+                    [
+                        "Scripts",
+                        "AABB"
+                    ],
+                    [
+                        "Scripts",
+                        "BehaviorScript"
+                    ],
+                    [
+                        "Scripts",
+                        "Detection"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Textures",
+                        "logo_opacity_mask"
+                    ],
+                    [
+                        "TopHat3D"
+                    ],
+                    [
+                        "TopHat3D",
+                        "Animations"
+                    ],
+                    [
+                        "TopHat3D",
+                        "Materials"
+                    ],
+                    [
+                        "TopHat3D",
+                        "Materials",
+                        "Red"
+                    ],
+                    [
+                        "TopHat3D",
+                        "Materials",
+                        "White"
+                    ],
+                    [
+                        "TopHat3D",
+                        "Meshes"
+                    ],
+                    [
+                        "TopHat3D",
+                        "Meshes",
+                        "Circle"
+                    ],
+                    [
+                        "TopHat3D",
+                        "Meshes",
+                        "Circle_2"
+                    ],
+                    [
+                        "TopHat3D",
+                        "Textures"
+                    ],
+                    [
+                        "TopHat3D",
+                        "TopHat3D"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1519646016078432:20163",
+                    "1519649635294464:26959",
+                    "1519693795709998:5976",
+                    "1520546489934271:37113",
+                    "1521565863891751:9464",
+                    "1552251622553919:10668",
+                    "1552253538132484:53452",
+                    "1552280218590045:30721",
+                    "1552280550856050:43066",
+                    "1552280727188136:49920",
+                    "1552280759582989:52552",
+                    "1552281530164063:85150",
+                    "1552306824135466:34647"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": [
+                ""
+            ],
+            "lens": "Baseball Cap",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1519692851290800:4860",
+                    "1519692992521333:5390",
+                    "1519693795714559:5979",
+                    "1520298381338376:134273",
+                    "1520299776349775:8096",
+                    "1520300279177762:15793",
+                    "1520300333847500:16557",
+                    "1520535762333927:360595",
+                    "1521490348734815:69066",
+                    "1521490711583957:78571",
+                    "1521490722242044:79737",
+                    "1521689253683100:3572",
+                    "1522777905809660:212075",
+                    "1522777910886665:213217",
+                    "1552251042858762:3022",
+                    "1552253538132484:53453",
+                    "1552273744039722:5895",
+                    "1552279011263990:24880",
+                    "1552280016878508:26954",
+                    "1552280057544834:29597",
+                    "1552280360696173:37964",
+                    "1552280513228898:40616",
+                    "1552280727188136:49921",
+                    "1552280759583989:52553",
+                    "1552281141875854:560291",
+                    "1552281530165063:85151",
+                    "1552281577891793:87278",
+                    "1552313822828768:6284",
+                    "1552317374283900:16795",
+                    "1552317436313448:21092"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "113",
+                    "uid": "1519674086465957:22446",
+                    "name": "\/Resources\/Resource113.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1520377546958795:14078",
+                    "name": "\/Resources\/Resource232.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1520377547060209:14091",
+                    "name": "\/Resources\/Resource233.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1520377547150090:14104",
+                    "name": "\/Resources\/Resource234.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "235",
+                    "uid": "1520377547220437:14117",
+                    "name": "\/Resources\/Resource235.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1520377547312498:14130",
+                    "name": "\/Resources\/Resource236.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1520377547422874:14143",
+                    "name": "\/Resources\/Resource237.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1520471086194215:87129",
+                    "name": "\/Resources\/Resource244.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "245",
+                    "uid": "1520471086316424:87142",
+                    "name": "\/Resources\/Resource245.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "262",
+                    "uid": "1521565863898955:9479",
+                    "name": "\/Resources\/Resource262.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1521565863901901:9491",
+                    "name": "\/Resources\/Resource263.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "306",
+                    "uid": "1552253162249985:39105",
+                    "name": "\/Resources\/Resource306.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1552258319944959:2481",
+                    "name": "\/Resources\/Resource319",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "320",
+                    "uid": "1552258319946959:2491",
+                    "name": "\/Resources\/Resource320.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "321",
+                    "uid": "1552258319961960:2501",
+                    "name": "\/Resources\/Resource321.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "322",
+                    "uid": "1552258319963960:2511",
+                    "name": "\/Resources\/Resource322.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "323",
+                    "uid": "1552258322905128:2867",
+                    "name": "\/Resources\/Resource323",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "324",
+                    "uid": "1552258322907129:2877",
+                    "name": "\/Resources\/Resource324.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "325",
+                    "uid": "1552258322909129:2887",
+                    "name": "\/Resources\/Resource325.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "326",
+                    "uid": "1552258322911129:2897",
+                    "name": "\/Resources\/Resource326.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "327",
+                    "uid": "1552258631576783:4226",
+                    "name": "\/Resources\/Resource327.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "328",
+                    "uid": "1552258648809769:4247",
+                    "name": "\/Resources\/Resource328.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "329",
+                    "uid": "1552273253441662:2909",
+                    "name": "\/Resources\/Resource329.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "330",
+                    "uid": "1552273253442662:2916",
+                    "name": "\/Resources\/Resource330.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "331",
+                    "uid": "1552273253445662:2924",
+                    "name": "\/Resources\/Resource331",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "332",
+                    "uid": "1552273253498665:2934",
+                    "name": "\/Resources\/Resource332",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "333",
+                    "uid": "1552273253550668:923",
+                    "name": "\/Resources\/Resource333",
+                    "sourceFilePath": "C:\/Users\/Renz\/Desktop\/CatInHat\/TopHat3D\/TopHat3D.fbx",
+                    "additionalProperties": {
+                        "importParams": {
+                            "regenerateNormalsForSkinned": "true",
+                            "generatePivots": "true",
+                            "importVertexColor": "true",
+                            "importVertexAnimation": "true",
+                            "importTangents": "true",
+                            "importBlendShapeAnimation": "true",
+                            "animationCurveOptimization": "true"
+                        }
+                    },
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "336",
+                    "uid": "1552273744043723:5925",
+                    "name": "\/Resources\/Resource336.mesh",
+                    "sourceFilePath": "C:\/Users\/Renz\/AppData\/Local\/Temp\/Lens Studio-RRWPiR\/system\/defaults\/effects\/headbinding\/Occluder.mesh",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "337",
+                    "uid": "1552273744103726:5933",
+                    "name": "\/Resources\/Resource337",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "338",
+                    "uid": "1552276018053789:2969",
+                    "name": "\/Resources\/Resource338.png",
+                    "sourceFilePath": "C:\/Users\/Renz\/Desktop\/CatInHat\/TopHat3D\/CatFace_neutral.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "340",
+                    "uid": "1552276072938928:3084",
+                    "name": "\/Resources\/Resource340",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "372",
+                    "uid": "1552280857002561:56068",
+                    "name": "\/Resources\/Resource372",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "373",
+                    "uid": "1552280873962531:58331",
+                    "name": "\/Resources\/Resource373.png",
+                    "sourceFilePath": "C:\/Users\/Renz\/Desktop\/CatInHat\/TopHat3D\/CatFace_scream.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "391",
+                    "uid": "1552281620947256:89549",
+                    "name": "\/Resources\/Resource391",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "392",
+                    "uid": "1552281620949256:89559",
+                    "name": "\/Resources\/Resource392.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "398",
+                    "uid": "1552306658094969:26615",
+                    "name": "\/Resources\/Resource398",
+                    "sourceFilePath": "C:\/Users\/Renz\/AppData\/Local\/Temp\/Lens Studio-tRxBeY\/hurry up yes Sticker by anredo.gif",
+                    "additionalProperties": {
+                        "from_giphy": "true"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "5"
+                },
+                {
+                    "resId": "400",
+                    "uid": "1552306658233977:26737",
+                    "name": "\/Resources\/Resource400",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "401",
+                    "uid": "1552306824114465:34636",
+                    "name": "\/Resources\/Resource401",
+                    "sourceFilePath": "C:\/Users\/Renz\/AppData\/Local\/Temp\/Lens Studio-ZeCgSS\/pop art loop STICKER by Dax Norman.gif",
+                    "additionalProperties": {
+                        "from_giphy": "true"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "5"
+                },
+                {
+                    "resId": "403",
+                    "uid": "1552306824251472:34733",
+                    "name": "\/Resources\/Resource403",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "407",
+                    "uid": "1552310520824904:4971",
+                    "name": "\/Resources\/Resource407",
+                    "sourceFilePath": "C:\/Users\/Renz\/AppData\/Local\/Temp\/Lens Studio-nfJOmQ\/animation art Sticker by NickDahill.gif",
+                    "additionalProperties": {
+                        "from_giphy": "true"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "5"
+                },
+                {
+                    "resId": "409",
+                    "uid": "1552310520993914:5068",
+                    "name": "\/Resources\/Resource409",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "413",
+                    "uid": "1552310791090363:11692",
+                    "name": "\/Resources\/Resource409",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "414",
+                    "uid": "1552311140325338:15653",
+                    "name": "\/Resources\/Resource409",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "416",
+                    "uid": "1552313299055810:22764",
+                    "name": "\/Resources\/Resource416.mp3",
+                    "sourceFilePath": "C:\/Users\/Renz\/Desktop\/CatInHat\/Scream.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "417",
+                    "uid": "1552313423603934:24490",
+                    "name": "\/Resources\/Resource417.mp3",
+                    "sourceFilePath": "C:\/Users\/Renz\/Desktop\/CatInHat\/Barking.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "418",
+                    "uid": "1552313455724771:25593",
+                    "name": "\/Resources\/Resource418.js",
+                    "sourceFilePath": "C:\/Users\/Renz\/Desktop\/CatInHat\/BehaviorScript.js\/BehaviorScript.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "423",
+                    "uid": "1552317436441455:21196",
+                    "name": "\/Resources\/Resource423",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "426",
+                    "uid": "1552317987769989:64582",
+                    "name": "\/Resources\/Resource426",
+                    "sourceFilePath": "C:\/Users\/Renz\/Desktop\/CatInHat\/Bowtie\/Bowtie.gif",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "5"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1521565863891751:9464",
+                "1": "1521565863891780:9467",
+                "2": "1552258319920958:2476",
+                "3": "1552258322881127:2862",
+                "4": "1552259823142937:14717",
+                "5": "1552273253550668:2983",
+                "6": "1552273253551668:2988",
+                "7": "1552273253640673:3024",
+                "8": "1552273744039722:5894",
+                "9": "1552273744041723:5914",
+                "10": "1552273951280576:9927",
+                "11": "1552276072836922:2979",
+                "12": "1552276072836922:2980",
+                "13": "1552280856920556:55963",
+                "14": "1552280856920556:55964",
+                "15": "1552306658114970:26627",
+                "16": "1552306824135466:34647",
+                "17": "1552310520838905:4982",
+                "18": "1552310791090363:11687",
+                "19": "1552311140325338:15648",
+                "20": "1552312271280025:18031",
+                "21": "1552313428334204:24572",
+                "22": "1552313822828768:6284",
+                "23": "1552314480253371:31245",
+                "24": "1552314572523648:37384",
+                "25": "1552314624295609:41918",
+                "26": "1552314649392045:44508",
+                "27": "1552317436313448:21092"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "AABB",
+                                "resourceId": "327",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Detection",
+                                "resourceId": "328",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "BehaviorScript",
+                                "resourceId": "418",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "logo_opacity_mask",
+                                "resourceId": "113",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "262",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "263",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Paint Patterns",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "swirl_primary",
+                                "resourceId": "232",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "swirl_secondary",
+                                "resourceId": "233",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "kitty_primary",
+                                "resourceId": "234",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "kitty_secondary",
+                                "resourceId": "235",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_lines_primary",
+                                "resourceId": "236",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_lines_secondary",
+                                "resourceId": "237",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_mask_primary",
+                                "resourceId": "244",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_mask_secondary",
+                                "resourceId": "245",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TopHat3D",
+                        "isImportedRoot": "true",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Red",
+                                        "resourceId": "331",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "White",
+                                        "resourceId": "332",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "isReadOnly": "true",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Circle",
+                                        "resourceId": "329",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Circle_2",
+                                        "resourceId": "330",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "isReadOnly": "true",
+                                "groups": "",
+                                "resources": ""
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "TopHat3D",
+                                "resourceId": "333",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "GIPHY Imports",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "hurry up yes Sticker by anredo",
+                                "resourceId": "398",
+                                "extension": ""
+                            },
+                            {
+                                "name": "pop art loop STICKER by Dax Norman",
+                                "resourceId": "401",
+                                "extension": ""
+                            },
+                            {
+                                "name": "animation art Sticker by NickDahill",
+                                "resourceId": "407",
+                                "extension": ""
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Box",
+                        "resourceId": "306",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "CatFace_neutral",
+                        "resourceId": "338",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "CatFace_scream",
+                        "resourceId": "373",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Matte Shadow",
+                        "resourceId": "391",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Plane",
+                        "resourceId": "392",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Scream",
+                        "resourceId": "416",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "Barking",
+                        "resourceId": "417",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "Bowtie",
+                        "resourceId": "426",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "113",
+                    "path": "Textures\/logo_opacity_mask.png"
+                },
+                {
+                    "id": "232",
+                    "path": "Face Paint Patterns\/swirl_primary.png"
+                },
+                {
+                    "id": "233",
+                    "path": "Face Paint Patterns\/swirl_secondary.png"
+                },
+                {
+                    "id": "234",
+                    "path": "Face Paint Patterns\/kitty_primary.png"
+                },
+                {
+                    "id": "235",
+                    "path": "Face Paint Patterns\/kitty_secondary.png"
+                },
+                {
+                    "id": "236",
+                    "path": "Face Paint Patterns\/eye_lines_primary.png"
+                },
+                {
+                    "id": "237",
+                    "path": "Face Paint Patterns\/eye_lines_secondary.png"
+                },
+                {
+                    "id": "244",
+                    "path": "Face Paint Patterns\/eye_mask_primary.png"
+                },
+                {
+                    "id": "245",
+                    "path": "Face Paint Patterns\/eye_mask_secondary.png"
+                },
+                {
+                    "id": "262",
+                    "path": "Textures\/echopark_diff.png"
+                },
+                {
+                    "id": "263",
+                    "path": "Textures\/echopark_spec.png"
+                },
+                {
+                    "id": "306",
+                    "path": "Box.mesh"
+                },
+                {
+                    "id": "327",
+                    "path": "Scripts\/AABB.js"
+                },
+                {
+                    "id": "328",
+                    "path": "Scripts\/Detection.js"
+                },
+                {
+                    "id": "329",
+                    "path": "TopHat3D\/Meshes\/Circle.mesh"
+                },
+                {
+                    "id": "330",
+                    "path": "TopHat3D\/Meshes\/Circle_2.mesh"
+                },
+                {
+                    "id": "338",
+                    "path": "CatFace_neutral.png"
+                },
+                {
+                    "id": "373",
+                    "path": "CatFace_scream.png"
+                },
+                {
+                    "id": "392",
+                    "path": "Plane.mesh"
+                },
+                {
+                    "id": "398",
+                    "path": "GIPHY Imports\/hurry up yes Sticker by anredo"
+                },
+                {
+                    "id": "401",
+                    "path": "GIPHY Imports\/pop art loop STICKER by Dax Norman"
+                },
+                {
+                    "id": "407",
+                    "path": "GIPHY Imports\/animation art Sticker by NickDahill"
+                },
+                {
+                    "id": "416",
+                    "path": "Scream.mp3"
+                },
+                {
+                    "id": "417",
+                    "path": "Barking.mp3"
+                },
+                {
+                    "id": "418",
+                    "path": "Scripts\/BehaviorScript.js"
+                },
+                {
+                    "id": "426",
+                    "path": "Bowtie"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1552273253550668:2983",
+                        "v": {
+                            "prefab": "1552273253550668:923",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1552273253549668:2944",
+                                    "v": "1552273253550668:2983"
+                                },
+                                {
+                                    "k": "1552273253549668:2946",
+                                    "v": "1552273253551668:2988"
+                                },
+                                {
+                                    "k": "1552273253549668:2948",
+                                    "v": "1552273253551668:934"
+                                },
+                                {
+                                    "k": "1552273253549668:2950",
+                                    "v": "1552273253639673:948"
+                                },
+                                {
+                                    "k": "1552273253549668:2952",
+                                    "v": "1552273253640673:3024"
+                                },
+                                {
+                                    "k": "1552273253549668:2954",
+                                    "v": "1552273253641673:959"
+                                },
+                                {
+                                    "k": "1552273253549668:2956",
+                                    "v": "1552273253643673:3033"
+                                },
+                                {
+                                    "k": "1552273253549668:2958",
+                                    "v": "1552273253643673:970"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1552273253550668:923",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1552273253549668:2944"
+                        },
+                        {
+                            "k": [
+                                "Camera"
+                            ],
+                            "v": "1552273253549668:2956"
+                        },
+                        {
+                            "k": [
+                                "Camera",
+                                "Component.Camera"
+                            ],
+                            "v": "1552273253549668:2958"
+                        },
+                        {
+                            "k": [
+                                "Circle"
+                            ],
+                            "v": "1552273253549668:2946"
+                        },
+                        {
+                            "k": [
+                                "Circle",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1552273253549668:2950"
+                        },
+                        {
+                            "k": [
+                                "Lamp"
+                            ],
+                            "v": "1552273253549668:2952"
+                        },
+                        {
+                            "k": [
+                                "Lamp",
+                                "Component.LightSource"
+                            ],
+                            "v": "1552273253549668:2954"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
